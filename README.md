@@ -1,2 +1,2 @@
-# ujikompetensi_vuejs
-Untuk memenuhi tugas uji kompetensi pelatihan VUE JS
+# heryana-kasih-setiawan-vue-pk
+Untuk memenuhi tugas unjuk keterampilan pelatihan VUE JS
