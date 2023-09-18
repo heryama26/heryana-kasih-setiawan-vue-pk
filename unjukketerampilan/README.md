@@ -1,5 +1,18 @@
 # unjukketerampilan
 
+## Ada 4 halaman pada web ini yaitu:
+Home
+Hanya menampilkan halaman home saja
+
+About
+Hanya menampilkan halaman about saja
+
+Pokemon
+Menampilkan Nama-nama pokemon 
+
+News
+Menampilkan berita-berita 
+
 ## Project setup
 ```
 npm install
