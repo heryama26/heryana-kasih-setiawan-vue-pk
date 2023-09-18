@@ -13,6 +13,7 @@ Menampilkan Nama-nama pokemon
 News
 Menampilkan berita-berita 
 
+Link Vercel: https://heryana-kasih-setiawan-vue-pk.vercel.app/
 ## Project setup
 ```
 npm install
